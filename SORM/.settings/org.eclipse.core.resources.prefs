@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+encoding//doc/readme.txt=GBK
+encoding//src/com/org/sorm/core/Query.java=UTF-8
+encoding//src/com/org/sorm/core/QueryFactory.java=UTF-8
